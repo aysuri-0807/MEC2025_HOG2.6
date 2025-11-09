@@ -30,3 +30,7 @@ Ammaar Shareef | (Front-End)
 - Install dependencies listed in `requirements.txt` – e.g.:  
   ```bash
   pip install -r requirements.txt
+
+
+## Website Demo Link 
+https://ammaarshareef.github.io/MEC-2025-Frontend/
