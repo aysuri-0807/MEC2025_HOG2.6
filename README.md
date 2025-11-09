@@ -4,6 +4,11 @@
 ## Overview  
 This repository contains the code, assets, and supporting files for the HOG2.6 project submitted for the programming round of MEC 2025. The main deliverable is a demo application (`PhoenixUI_Demo.py`) along with a trained model (`FireDetectionNN.pth`) and associated resources.
 
+## Team 2.6 Hog Members
+Reyan Patel    | (Full-Stack)
+Andy Suri      | (Back-End/ML)
+Ammaar Shareef | (Front-End)
+
 ## Repository Structure  
 /
 ├── AlertData/ ― (Directory) Alert Data CSV 
