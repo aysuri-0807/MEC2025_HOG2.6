@@ -1,6 +1,12 @@
-# Phoenix AID - Wildfire Prediction Frontend
+AS # Phoenix - Wildfire Prediction Frontend
 
 A React-based frontend application for wildfire prediction and management, focused on city infrastructure protection. This application integrates with a Python backend and provides AI-powered analysis capabilities.
+
+# To run Frontend along with Backend
+- Download all files/folders and put them into one folder
+- Open in IDE, and run these 2 commands each in 2 seperate terminals
+npm run dev
+python api_server.py
 
 ## Features
 
@@ -201,4 +207,5 @@ The application is configured for GitHub Pages deployment with automatic deploym
 - The application is designed for city infrastructure management
 - All features work with demo data when backend is not connected
 - Uploaded images appear in "Previous Uploads" even without GitHub token
+
 
